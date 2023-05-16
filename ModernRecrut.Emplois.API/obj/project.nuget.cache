@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gc/gnqX3gXpnc2FN90M1bglpz5u9hZjSORlZU8femVTy9T/aBGGmGIflcsc1JMtn4K6xoWZQSFlOsYKnLUNziQ==",
+  "dgSpecHash": "LXAamgxDLwa6DWimE4Cim8fuUxGI7RrpF6wbAh/UMUSUdxIcV/n7+5K+i0kngOefjo6PP6pxe/+nhzjQZlWudw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\15813\\Desktop\\Cégep\\AEC\\POO 4\\TP 2\\POO4_TP2_JG-NJ\\ModernRecrut\\ModernRecrut.Emplois.API\\ModernRecrut.Emplois.API.csproj",
+  "projectFilePath": "F:\\session 4\\Session 4A\\POO-4\\TP 2\\POO4_TP2_JG-NJ_2eV\\ModernRecrut.Emplois.API\\ModernRecrut.Emplois.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\15813\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\15813\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",

@@ -5984,11 +5984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\15813\\Desktop\\Cégep\\AEC\\POO 4\\TP 2\\POO4_TP2_JG-NJ\\ModernRecrut\\ModernRecrut.Favoris.API\\ModernRecrut.Favoris.API.csproj",
+      "projectUniqueName": "F:\\session 4\\Session 4A\\POO-4\\TP 2\\POO4_TP2_JG-NJ_2eV\\ModernRecrut.Favoris.API\\ModernRecrut.Favoris.API.csproj",
       "projectName": "ModernRecrut.Favoris.API",
-      "projectPath": "C:\\Users\\15813\\Desktop\\Cégep\\AEC\\POO 4\\TP 2\\POO4_TP2_JG-NJ\\ModernRecrut\\ModernRecrut.Favoris.API\\ModernRecrut.Favoris.API.csproj",
+      "projectPath": "F:\\session 4\\Session 4A\\POO-4\\TP 2\\POO4_TP2_JG-NJ_2eV\\ModernRecrut.Favoris.API\\ModernRecrut.Favoris.API.csproj",
       "packagesPath": "C:\\Users\\15813\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\15813\\Desktop\\Cégep\\AEC\\POO 4\\TP 2\\POO4_TP2_JG-NJ\\ModernRecrut\\ModernRecrut.Favoris.API\\obj\\",
+      "outputPath": "F:\\session 4\\Session 4A\\POO-4\\TP 2\\POO4_TP2_JG-NJ_2eV\\ModernRecrut.Favoris.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

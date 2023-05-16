@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ytgDjjDHS+2eAiq6OZd/1V+K3vwDUhfKsEC3QmtEAATgNFWr2KCOuMnaOGT4uR6lK1TvknZJFODZXTjzAXsQ8Q==",
+  "dgSpecHash": "JAxf32u4WVsfM5/PJ3cxUgSteUGBCJQkDJyAvpAdkV9RN1xBiJVALroT1N7IL7TnvNGJqDBiNr8E1ShLte+2ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\15813\\Desktop\\Cégep\\AEC\\POO 4\\TP 2\\POO4_TP2_JG-NJ\\ModernRecrut\\ModernRecrut\\ModernRecrut.MVC.csproj",
+  "projectFilePath": "F:\\session 4\\Session 4A\\POO-4\\TP 2\\POO4_TP2_JG-NJ_2eV\\ModernRecrut\\ModernRecrut.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\15813\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\15813\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",

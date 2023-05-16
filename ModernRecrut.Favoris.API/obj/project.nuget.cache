@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Cyveegshqp4FgvHhgWR6N8gcpXt6TyUGdGOTP3z0tZJLhXVVSNOsdVUIzCmNUX3rhVec2k3z4oHIH2njaZyPQ==",
+  "dgSpecHash": "4m4E+jO8BkRVZskgXS3+Bh5k2W2QugXlWAwAay5YPEc1/fg2oEZD5KhQvndNvHZMcdWLVS9ZnFpzkfK0jMfIaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\15813\\Desktop\\Cégep\\AEC\\POO 4\\TP 2\\POO4_TP2_JG-NJ\\ModernRecrut\\ModernRecrut.Favoris.API\\ModernRecrut.Favoris.API.csproj",
+  "projectFilePath": "F:\\session 4\\Session 4A\\POO-4\\TP 2\\POO4_TP2_JG-NJ_2eV\\ModernRecrut.Favoris.API\\ModernRecrut.Favoris.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\15813\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\15813\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
